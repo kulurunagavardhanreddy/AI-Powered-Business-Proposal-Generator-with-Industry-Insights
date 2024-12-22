@@ -1,6 +1,5 @@
 requests
 beautifulsoup4
-wikipedia-api
 pandas
 streamlit
 huggingface_hub
