@@ -2,7 +2,6 @@
 
 import requests
 from bs4 import BeautifulSoup
-import wikipedia
 
 def fetch_company_info(company_name):
     """
